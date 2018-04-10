@@ -14,6 +14,7 @@ Im Talk wird in schnellen Schritten gezeigt, wo wir im Jahr 2018 mit **Fonts im 
       * Unterschneidende Zeichen & Freie Laufweiten (im Gegensatz zum Bleisatz – aber flexiebler als im Fotosatz)
   * Con
     * Das Font-Engeneering übersteigt je nach Font den Prozess des Designs (Beispielfonts). Technik und Design sind wieder stärker getrennt als noch in den 90ern.
+    * Ausgabegeräte sind selbstleuchtend und eher niedrig aufgelöst (Hinting nötig)
 * Zeichen
   * Pro
     * Es ist möglich Fonts mit zehntausenden von Zeichen zu produzieren. Mit Latin-Extended ist die Westliche Welt aber meist schon «relativ» gut bedient (Beispiele)
