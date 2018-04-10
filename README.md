@@ -5,7 +5,7 @@ Im Talk wird in schnellen Schritten gezeigt, wo wir im Jahr 2018 mit **Fonts im 
 
 
 ## Ablauf
-
+### Ist-Zustand
 * Qualität
   * Pro
     * Beste Font-Technologie der Menschheits-Geschichte ermöglicht hervorragende Qualität.<br>Beispiele:
@@ -30,4 +30,7 @@ Im Talk wird in schnellen Schritten gezeigt, wo wir im Jahr 2018 mit **Fonts im 
     * Man hat sich auf OpenType (Woff/Woff2) geeinigt. Dunkle Jahre der 1990er und der Bleisatzäre (Schrifthöhe) sind überwunden.
   * Con
     * Die konkurrierenden Firmen haben am «Standard» vorbei Dinge in Ihre Fonts eingebaut, die nun nicht miteinander kompatiebel sind (3 verschiedene Colour-Fonts)
-    
+### Ausblick
+* Parametrische Designs 
+* Varriable Fonts
+* Unterstützung von neuen Features in mehr Programmen und Betriebsystemen
