@@ -1,6 +1,7 @@
 #### proposal
 # «Fonts im 2018 – Irgendwas ist ja immer...»
-
+# «Zeichen setzen für bewegte Zeiten»
+### 29.8.2018
 Im Talk wird in schnellen Schritten gezeigt, wo wir im Jahr 2018 mit **Fonts im Web** stehen und wie Technologie und Design stark in einander greifen. Dabei wird immer kurz ein Aspekt aufgezeigt, den wir erreicht haben und was wir eben noch entwickeln müssen. 
 
 
