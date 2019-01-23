@@ -1,4 +1,4 @@
-#### proposal
+**Talk proposal**
 # «Fonts – Irgendwas ist ja immer…»
 ## Übersicht über die aktuelle Schrifttechnologie aus gestalterischer Perspektive
 
@@ -12,13 +12,13 @@
 * Projektverantwortung: Jonas Schudel
 
 ## Abstract
-Im Talk werden in schnellen Schritten gezeigt, wo wir heute mit **Fonts im Web** stehen und wie Technologie und Design stark in einander greifen müssen um gute Typografie zu erreichen. Dabei wird immer kurz ein Aspekt aufgezeigt, der bereits erreicht ist und was wir man noch entwickeln muss. 
+Im Talk werden in schnellen Schritten gezeigt, wo wir heute mit **Fonts im Web** stehen und wie Technologie und Design stark in einandergreifen müssen um gute Typografie zu erreichen. Dafür werden einige Aspekte gezeigt, die bereits erreicht wurden und was noch entwickelt werden muss. 
 
 ### Ist
-* Qualität – Technische und die gestaltereische Qualitäten der Schrift und der Ausgabe
+* Qualität – Technische und die gestaltereische Qualitäten der Schrift und der Schriftausgabe
 * Zeichen – Welche Zeichen setzen wir und wo ist Schrift die Technik für andere Ideen
 * Lizenz – Was passt und wem passt es nicht
-* Standards – Wer macht denn heute noch Standards und warum?
+* Standards – Wer will denn heute noch Standards?
 
 ### Ausblick
 * Varriable Fonts – Parametrisches Design für den Endanwender 
