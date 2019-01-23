@@ -11,11 +11,10 @@
 * Dauer: 20–25 Mintuten (oder nach Absprache)
 * Projektverantwortung: Jonas Schudel
 
-### Abstract
+## Abstract
 Im Talk werden in schnellen Schritten gezeigt, wo wir heute mit **Fonts im Web** stehen und wie Technologie und Design stark in einander greifen müssen um gute Typografie zu erreichen. Dabei wird immer kurz ein Aspekt aufgezeigt, der bereits erreicht ist und was wir man noch entwickeln muss. 
 
-
-## Ist
+### Ist
 * Qualität – Technische und die gestaltereische Qualitäten der Schrift und der Ausgabe
 * Zeichen – Welche Zeichen setzen wir und wo ist Schrift die Technik für andere Ideen
 * Lizenz – Was passt und wem passt es nicht
