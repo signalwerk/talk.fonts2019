@@ -34,5 +34,8 @@ Im Talk werden in schnellen Schritten gezeigt, wo wir heute mit **Fonts im Web**
 Alle von Stefan Huber erarbeiteten Unterlagen für den Talk sind frei für den weiteren Gebrauch unter der [Creative Commons Lizenz (CC-BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 Sollten vom Talk Aufzeichnungen gemacht werden, so müssen diese frei für den weiteren Gebrauch unter der [Creative Commons Lizenz (CC-BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) zur Verfügung gestellt werden.
 
+## Sprecher
+Stefan Huber lebt und arbeitet als selbständiger Entwickler und Gestalter in Zürich. Macht die Konzeption und Realisation für blinkende Dinge im Web und ist Dozent an der [Schule für Gestaltung Zürich](http://sfgz.ch/).
+
 ## Vergütung
 Der Autor berechnet kein Honorar. Bitte keine Schnittblumen und kein Alkohol. 
