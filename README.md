@@ -4,7 +4,7 @@
 
 ## Rahmen
 * Ort: Schule für Gestaltung Zürich
-* Datum: 28. Jaunar 2019 – ?? Uhr
+* Datum: 28. Jaunar 2019 – 18:30 Uhr
 * Titel: «Fonts – Irgendwas ist ja immer…»
 * Weitere Sprecher: Monotype, Haeme Ulrich, Benjamin Domenig
 * Abfolge: Stefan Huber, Monotype, Haeme Ulrich, Benjamin Domenig
