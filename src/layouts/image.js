@@ -8,7 +8,9 @@ const Invert = styled.div([], color, {
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'center',
-  backgroundColor: 'white',
+  // backgroundColor: 'white',
+  backgroundColor: '#1ba9d5',
+
 
   '& a': {
     color: 'inherit'
@@ -22,8 +24,8 @@ Invert.defaultProps = {
 
 
 
-const Box = props => <Invert className="layout layout-image">{props.children}</Invert>
+const Image = props => <Invert className="layout layout-image">{props.children}</Invert>
 
 // export default Invert
 
-export default Box
+export default Image
