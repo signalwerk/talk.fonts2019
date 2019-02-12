@@ -1,2 +1,4 @@
 /node_modules
 travis/.ssh/id_rsa
+/dist
+/__ADDITIONS
