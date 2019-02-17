@@ -1,5 +1,9 @@
 ## Notes
 
+## emoji
+https://shadycharacters.co.uk/2019/02/emoji-part-6a-the-trouble-with-emoji/
+ZERO WIDTH JOINER
+
 ## Ablauf
 ### Ist-Zustand
 * Qualität
