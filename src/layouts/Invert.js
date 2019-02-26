@@ -21,7 +21,7 @@ Image.defaultProps = {
 }
 
 
-const Box = props => <Image className="layout invert">{props.children}</Image>
+const Box = props => <Image className="layout layout-image invert">{props.children}</Image>
 
 
 export default Box
