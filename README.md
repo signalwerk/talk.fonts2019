@@ -3,7 +3,6 @@
 ### 2019 · State of the Font
 
 
-## Rahmen
 * Ort: Schule für Gestaltung Zürich
 * Datum: 28. Jaunar 2019 – 18:30 Uhr
 * Weitere Sprecher: Haeme Ulrich, Tobias Meyerhoff, Benjamin Domenig
