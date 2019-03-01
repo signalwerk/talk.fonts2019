@@ -1,11 +1,15 @@
-<small>Talk</small>
+# Tal · kIrgendwas ist ja immer…
 
-# Irgendwas ist ja immer…
-
-## 2019 · State of the Font
+### 2019 · State of the Font
 
 
-Schule für Gestaltung · Zürich
+## Rahmen
+* Ort: Schule für Gestaltung Zürich
+* Datum: 28. Jaunar 2019 – 18:30 Uhr
+* Weitere Sprecher: Haeme Ulrich, Tobias Meyerhoff, Benjamin Domenig
+* Dauer: 20–25 Mintuten 
+* Projektverantwortung: Jonas Schudel
+
 
 
 ### Links
